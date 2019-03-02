@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a64b4a48-37ca-40d5-91e4-3fd17a29c174" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="a64b4a48-37ca-40d5-91e4-3fd17a29c174" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="584">
-              <caret line="281" column="15" lean-forward="true" selection-start-line="281" selection-start-column="15" selection-end-line="281" selection-end-column="15" />
+            <state relative-caret-position="221">
+              <caret line="31" column="92" selection-start-line="31" selection-start-column="92" selection-end-line="31" selection-end-column="92" />
             </state>
           </provider>
         </entry>
@@ -76,12 +74,12 @@
       <option name="presentableId" value="Default" />
       <updated>1551554719632</updated>
       <workItem from="1551554725096" duration="6000" />
-      <workItem from="1551554745119" duration="1625000" />
+      <workItem from="1551554745119" duration="2239000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1631000" />
+    <option name="totallyTimeSpent" value="2245000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1292" height="692" extended-state="6" />
@@ -123,8 +121,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="584">
-          <caret line="281" column="15" lean-forward="true" selection-start-line="281" selection-start-column="15" selection-end-line="281" selection-end-column="15" />
+        <state relative-caret-position="221">
+          <caret line="31" column="92" selection-start-line="31" selection-start-column="92" selection-end-line="31" selection-end-column="92" />
         </state>
       </provider>
     </entry>
